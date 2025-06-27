@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 
-<!--
-**Mohit453499/Mohit453499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Python Developer | 📊 Data Analyst | 💡 Problem Solver<br>
+Passionate about building data-driven solutions and visualizing insights for real-world impact.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-2060a0?style=flat&logo=matplotlib)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit453499&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit453499&theme=radical" width="47%" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohit453499&theme=github-compact)
+
+---
+
+
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit453499)
+- ✉️ Email: mohitdhewa045@gmail.com 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohit453499&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
