@@ -19,6 +19,14 @@ Passionate about building data-driven solutions and visualizing insights for rea
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
+## 📚 Currently Learning
+
+- 🤖 Machine Learning with Scikit-learn & real-world datasets
+- 🧠 AI concepts including Natural Language Processing (NLP)
+- 🐍 Flask REST APIs with JWT Auth and database integration
+- 🌐 Django ORM, signals, custom admin, and user auth
+- 📊 Advanced data visualization using Plotly and Seaborn
+- 📦 Deployment to Heroku, Vercel & Render
 
 ## 📈 GitHub Stats
 
