@@ -32,7 +32,10 @@ Passionate about building data-driven solutions and visualizing insights for rea
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit453499&show_icons=true&theme=tokyonight)
 
-![GitHub Streak Alt](https://streak-stats.demolab.com/?user=Mohit453499&theme=tokyonight)
+### 📅 GitHub Contribution Calendar
+
+![Contribution Calendar](https://github.com/Mohit453499/Mohit453499/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
