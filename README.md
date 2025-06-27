@@ -30,18 +30,16 @@ Passionate about building data-driven solutions and visualizing insights for rea
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit453499&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit453499&theme=radical" width="47%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit453499&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohit453499&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohit453499&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit453499&theme=github-compact)
 
----
 
 
 
@@ -49,7 +47,7 @@ Passionate about building data-driven solutions and visualizing insights for rea
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohit453499)
+- 💼 [LinkedIn](www.linkedin.com/in/mohit-kumar-929b9b250)
 - ✉️ Email: mohitdhewa045@gmail.com 
 
 ---
